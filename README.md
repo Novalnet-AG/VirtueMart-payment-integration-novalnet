@@ -1,4 +1,4 @@
-# NOVALNET PAYMENT EXTENSION FOR VIRTUEMART
+# NOVALNET PAYMENT EXTENSION FOR VIRTUEMART 3
 Novalnet payment extension for VirtueMart simplifies your daily work by automating the entire payment process, from checkout till collection. This extension is designed to help you increase your sales by offering various payment methods on a one-page checkout. The extension which is perfectly adjusted to the VirtueMart shop with top-quality range of services of the payment provider.
 
 Novalnet payment extension for VirtueMart is available in <b>EN, DE</b>

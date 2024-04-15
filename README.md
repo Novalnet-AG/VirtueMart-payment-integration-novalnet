@@ -27,11 +27,13 @@ Through the individuality and flexibility, you can choose which payment methods 
 Find more about VirtueMart extension on: https://www.novalnet.de/site_pdf/IG-joomla_3.4.0-3.9.22_virtuemart_3.4.0-3.8.6_novalnet_11.3.0.pdf<br>
 To test our demo shop, please visit: https://virtuemart.novalnet.de
 
-## Contact
+## Documentation & Support
+For more information about the Virtuemart Payment Integration by Novalnet, please get in touch with us: <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a> or +49 89 9230683-20<br>
+
 Novalnet AG<br>
 Zahlungsinstitut (ZAG)<br>
-Feringastr. 4 <br>
-85774 Unterföhring <br>
+Gutenbergstraße 7<br>
+D-85748 Garching<br>
 Deutschland<br>
 E-mail: sales@novalnet.de<br>
 Tel: +49 89 9230683-20<br>
